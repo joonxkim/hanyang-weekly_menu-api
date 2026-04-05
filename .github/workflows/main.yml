@@ -15,12 +15,12 @@ jobs:
 
     steps:
       - name: 저장소 코드 가져오기
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # 👈 v4로 변경!
 
       - name: 파이썬 설치하기
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # 👈 v5로 변경!
         with:
-          python-version: '3.11' # 최신 파이썬 환경
+          python-version: '3.11'
 
       - name: 필요한 부품(라이브러리) 설치하기
         run: pip install -r requirements.txt
