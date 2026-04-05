@@ -1,0 +1,17 @@
+[
+    {
+        "type": "조식",
+        "kor": "[천원의아침밥] 소고기미역국 쌀밥 새우젓호박볶음 배추김치 시리얼*우유 초코품은라이스칩",
+        "eng": "Seaweed Soup with Beef, Rice, salted shrimp, stir-fried pumpkin, cabbage, kimchi, cereal*milk, chocolate rice chips"
+    },
+    {
+        "type": "중식",
+        "kor": "단호박닭볶음탕 쌀밥/쑥갓김치국 푸실리살사샐러드 깍두기 요구르트",
+        "eng": "Braised Spicy Chicken with Sweet Pumpkin, Rice/sagebrush kimchi soup fusilli salsa salad radish radish yogurt"
+    },
+    {
+        "type": "석식",
+        "kor": "치폴레오리볶음 쌀밥/미니된장국 숙주미나리무침 새콤달콤쌈무",
+        "eng": "Chipotle Stir-fried Duck, Rice/mini soybean paste soup, bean sprouts and water parsley, sweet and sour radish"
+    }
+]
