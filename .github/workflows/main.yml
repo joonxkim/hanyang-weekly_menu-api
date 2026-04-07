@@ -30,10 +30,10 @@ jobs:
       - name: 학식 가져오는 파이썬 코드 실행!
         run: python cafeteria.py
 
-      - name: 생성된 menu.json 파일을 깃허브에 저장(Commit & Push)하기
+      - name: 생성된 JSON 파일을 깃허브에 저장(Commit & Push)하기
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add menu.json
-          git commit -m "Auto Update Menu Data" || echo "No changes to commit"
+          git add weekly_menu.json # 👈 여기를 weekly_menu.json으로 변경!
+          git commit -m "Auto Update Weekly Menu Data" || echo "No changes to commit"
           git push
