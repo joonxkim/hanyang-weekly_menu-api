@@ -1,131 +1,110 @@
 {
-    "2026-05-18(월)": [
+    "2026-05-25(월)": [],
+    "2026-05-26(화)": [
         {
             "type": "조식",
-            "kor": "[천원의아침밥] 사골떡만둣국 쌀밥 매운호박볶음 배추김치 시리얼*우유 방울토마토",
-            "eng": "Rice Cake and Dumpling Soup, Rice, stir-fried spicy pumpkin, cabbage, kimchi, cereal*milk, cherry tomatoes"
+            "kor": "[천원의아침밥] 치즈부대찌개&라면사리 쌀밥 느타리그린빈볶음 깍두기 시리얼*우유 방울토마토",
+            "eng": "Cheese Budae Jjigae & Ramen Noodles, Rice, Stir-fried Oyster Green Beans, Kakdugi Cereal*Milk Cherry Tomatoes"
         },
         {
             "type": "중식",
-            "kor": "뚝]돈갈비김치찜 쌀밥/청양된장찌개 메추리알마늘쫑조림 깍두기 요구르트",
-            "eng": "Braised Pork Ribs & Kimchi Hot Pot, Rice/Cheongyang soybean paste stew, quail egg, braised garlic pods, radish radish yogurt"
+            "kor": "편스토랑쌈장닭갈비 쌀밥/팽이된장국 어.떡.햄.볶음 배추김치 요구르트",
+            "eng": "Pyeonstorang Ssamjang Dak-galbi, Rice/top soybean paste soup, rice cake, ham, stir-fry, cabbage kimchi, yogurt"
         },
         {
             "type": "중식",
-            "kor": "소세지단호박카레라이스 쌀밥/청양된장찌개 메추리알마늘쫑조림 깍두기 요구르트",
-            "eng": "Curry Rice with Sausage & Sweet Pumpkin, Rice/Cheongyang soybean paste stew, quail egg, braised garlic pods, radish radish yogurt"
+            "kor": "눈꽃치즈돈까스오므라이스 쌀밥/팽이된장국 어.떡.햄.볶음 배추김치 요구르트",
+            "eng": "Snow Cheese Pork Cutlet Omelette Rice, Rice/top soybean paste soup, rice cake, ham, stir-fry, cabbage kimchi, yogurt"
         },
         {
             "type": "석식",
-            "kor": "뚝배기돈육불고기 &당면사리 쌀밥/맑은순두부국 미역줄기볶음 배추김치",
-            "eng": "Pork Bulgogi Hot Pot & Glass Noodles, Rice/clear soft tofu soup, stir-fried seaweed stem, cabbage kimchi"
+            "kor": "매운돼지갈비찜 쌀밥/호박감자국 실곤약야채무침 깍두기",
+            "eng": "Spicy Braised Pork Ribs, Rice/pumpkin potato soup, konjac vegetable stew, radish radish radish"
         }
     ],
-    "2026-05-19(화)": [
+    "2026-05-27(수)": [
         {
             "type": "조식",
-            "kor": "[천원의아침밥] 햄야채볶음밥 &계란후라이 사골무챗국 그린샐러드*드레싱 반달단무지 시리얼*우유",
-            "eng": "Ham Fried Rice with Fried Egg, Beef bone radish soup Green salad * Dressing Half moon pickled radish cereal * Milk"
+            "kor": "[천원의아침밥] 진주식땡초볶음밥 순두부계란탕 치커리유자청무침 배추김치 우리쌀프레이크시리얼*저지방우유",
+            "eng": "Jinju-style Spicy Chili Fried Rice, Soft tofu egg soup, chicory, citron salad, cabbage kimchi, Korean rice flake cereal*low-fat milk"
         },
         {
             "type": "중식",
-            "kor": "부추오리주물럭 쌀밥/팽이유부장국 맛살브로콜리볶음 배추김치",
-            "eng": "Spicy Duck Bulgogi with Chives, Rice/top tofu soup, stir-fried broccoli, cabbage kimchi"
+            "kor": "불향숙주돈육불고기 쌀밥/사골뭇국 브로콜리컬리플라워볶음 깍두기",
+            "eng": "Fire-Grilled Pork Bulgogi with Bean Sprouts, Rice/beef bone soup, stir-fried broccoli and cauliflower, radish radish radish"
         },
         {
             "type": "중식",
-            "kor": "미트볼토마토스파게티 쌀밥/팽이유부장국 맛살브로콜리볶음 배추김치",
-            "eng": "Tomato Meatball Pasta, Rice/top tofu soup, stir-fried broccoli, cabbage kimchi"
+            "kor": "버터치킨마크니커리 쌀밥/사골뭇국 브로콜리컬리플라워볶음 깍두기",
+            "eng": "Butter Chicken Makhani Curry, Rice/beef bone soup, stir-fried broccoli and cauliflower, radish radish radish"
         },
         {
             "type": "석식",
-            "kor": "마라닭볶음탕 쌀밥/아욱된장국 푸주오이무침 깍두기 요구르트",
-            "eng": "Spicy Mala Braised Chicken, Rice/mallow miso soup, fuju cucumber salad, radish radish yogurt"
+            "kor": "묵은지오리볶음 쌀밥/우동장국 햄그린빈스볶음 깍두기 요구르트",
+            "eng": "Stir-fried Duck with Aged Kimchi, Rice/Udon Soup Stir-fried Ham Green Beans Kkakdugi Yogurt"
         }
     ],
-    "2026-05-20(수)": [
+    "2026-05-28(목)": [
         {
             "type": "조식",
-            "kor": "[천원의아침밥] 속풀이얼큰두부김치찌개 쌀밥 숙주나물김무침 깍두기 우리쌀프레이크시리얼*저지방우유 방울토마토",
-            "eng": "Hangover-relief Kimchi Tofu Stew, Rice, bean sprouts, seaweed salad, radish radish, Korean rice flake cereal*low-fat milk, cherry tomatoes"
+            "kor": "[천원의아침밥] 열정국밥 쌀밥 꽈리어묵볶음 삶은계란*소금 깍두기 방울토마토",
+            "eng": "st.살코기국밥 Yeoljeong Gukbap-style Pork Soup with Rice, Rice, stir-fried squid, boiled egg*salt, radish radish, cherry tomatoes"
         },
         {
             "type": "중식",
-            "kor": "뚝]핫스파이시치즈불닭 쌀밥/쑥갓어묵국 어린잎흑임자연근샐러드 깍두기 요구르트",
-            "eng": "Cheesy Spicy Buldak, Rice/dairy crown fish cake soup baby leaf black sesame root salad radish radish yogurt"
+            "kor": "서울식파채불고기 쌀밥/유부다시마국 마늘쫑감차채볶음 배추김치 요구르트",
+            "eng": "Seoul-style Bulgogi with Green Onion Salad, Rice/Fried Seaweed Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
         },
         {
             "type": "중식",
-            "kor": "돈부리덮밥 쌀밥/쑥갓어묵국 어린잎흑임자연근샐러드 깍두기 요구르트",
-            "eng": "Donburi Bowl, Rice/dairy crown fish cake soup baby leaf black sesame root salad radish radish yogurt"
+            "kor": "삼색야끼도리덮밥 쌀밥/유부다시마국 마늘쫑감차채볶음 배추김치 요구르트",
+            "eng": "Three-Color Yakitori Rice Bowl, Rice/Fried Seaweed Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
         },
         {
             "type": "석식",
-            "kor": "장조림버터비빔밥Jangjorim Butter Rice Bowl 맑은콩나물국 미니핫도그*케찹 배추김치",
-            "eng": ""
+            "kor": "마늘바싹돼지불고기 쌀밥/들깨버섯탕 매콤콩나물잡채 배추김치",
+            "eng": "Crispy Garlic Pork Bulgogi, Rice/perilla mushroom soup spicy bean sprout japchae cabbage kimchi"
         }
     ],
-    "2026-05-21(목)": [
+    "2026-05-29(금)": [
         {
             "type": "조식",
-            "kor": "[천원의아침밥] 훈제오리깍두기볶음밥 &계란후라이 들깨미역국 그린샐러드*드레싱 깍두기 시리얼*우유레싱 깍두기 시리얼*우유",
-            "eng": "Kkakdugi Fried Rice with Smoked Duck & Egg, Perilla seaweed soup Green salad * Dressing Kkakdugi cereal * Milk Dressing Kkakdugi cereal * Milk"
+            "kor": "[천원의아침밥] 종가묵은지참치김밥 미니라면 그린샐러드*드레싱 바나나 우리쌀프레이크시리얼*저지방우유",
+            "eng": "Jongga Aged Kimchi Tuna Gimbap, Mini Ramen Green Salad * Dressing Banana Korean Rice Flake Cereal * Low-fat Milk"
         },
         {
             "type": "중식",
-            "kor": "몽글구름계란제육덮밥 쌀밥/사골얼갈이국 느타리파프리카볶음 배추김치",
-            "eng": "Cloud Egg Spicy Pork Rice Bowl, Rice/beef bone soup, stir-fried oyster paprika, cabbage kimchi"
-        },
-        {
-            "type": "중식",
-            "kor": "일본식탄탄멘 쌀밥/사골얼갈이국 느타리파프리카볶음 배추김치",
-            "eng": "Tantan Ramen, Rice/beef bone soup, stir-fried oyster paprika, cabbage kimchi"
+            "kor": "해물짜계치 (짜장면+계란+치즈) 추가밥/우동장국 맛살겨자냉채 배추김치/반달단무지 요구르트",
+            "eng": "Seafood Jjajang Noodles with Egg & Cheese, Additional rice/udong soup, spicy mustard cold vegetable, cabbage kimchi/half moon pickled radish yogurt"
         },
         {
             "type": "석식",
-            "kor": "묵은지우불고기볶음 쌀밥 유부장국 콩장 깍두기 요구르트",
-            "eng": "Kimchi Beef Bulgogi, Rice, Tofu Soup, Soybean Paste, Kkaktugi Yogurt"
+            "kor": "알감자닭볶음탕 쌀밥/청양초콩나물국 브로콜리연근참깨무침 깍두기 요구르트",
+            "eng": "Braised Spicy Chicken with Baby Potatoes, Rice/Cheongyang vinegar bean sprout soup, broccoli lotus root, sesame seasoned radish radish yogurt,"
         }
     ],
-    "2026-05-22(금)": [
-        {
-            "type": "조식",
-            "kor": "[천원의아침밥] 아메리칸브렉퍼스트American Breakfast 크림스프 그린샐러드*드레싱 바나나 우리쌀프레이크시리얼*저지방우유",
-            "eng": ""
-        },
+    "2026-05-30(토)": [
         {
             "type": "중식",
-            "kor": "고구마치즈돈까스 추가밥/우동장국 쫄면야채무침 깍두기 요구르트",
-            "eng": "Sweet Potato Cheese Pork Cutlet, Additional rice/udong soup, jjolmyeon, vegetable salad, radish radish yogurt"
+            "kor": "숯불제육볶음&모듬쌈채소 쌀밥/미역국 메추리알고추조림 이색묵김가루무침 배추김치 만다린샐러드*드레싱 방울토마토/요구르트",
+            "eng": "Charbroiled Spicy Pork Stir-fry & Assorted Wrap Vegetables, Rice/seaweed soup, stewed quail roe, chili peppers, mixed jelly seaweed seasoning, cabbage kimchi, mandarin salad*dressing, cherry tomatoes/yogurt"
         },
         {
             "type": "석식",
-            "kor": "뚝]태백물닭갈비 쌀밥/부추계란국 메밀비빔국수 배추김치 요구르트",
-            "eng": "Spicy Chicken Hot Pot, Rice/Chive Egg Soup Buckwheat Mixed Noodles Cabbage Kimchi Yogurt"
+            "kor": "소고기무국 쌀밥 후랑크브로콜리볶음 배추김치",
+            "eng": "Beef Radish Soup, Rice, stir-fried frank broccoli, cabbage kimchi"
         }
     ],
-    "2026-05-23(토)": [
+    "2026-05-31(일)": [
         {
             "type": "중식",
-            "kor": "비프카레라이스 팽이미소시루 마카로니콘샐러드 배추김치 요구르트",
-            "eng": "Beef Curry Rice, Top miso soup, macaroni salad, cabbage kimchi, yogurt"
+            "kor": "서울식팽이우불고기 쌀밥/사골팟국 유부숙주겨자냉채 깍두기 요구르트",
+            "eng": "Seoul-style Beef Bulgogi with Enoki Mushrooms, Rice/beef bone soup, fermented bean sprouts, mustard, cold vegetable, radish radish yogurt, yogurt"
         },
         {
             "type": "석식",
-            "kor": "우거지감자탕 쌀밥 어묵꽈리고추조림 깍두기",
-            "eng": "Gamjatang with Napa Greens, Rice, fish cake, stewed red pepper, radish radish"
-        }
-    ],
-    "2026-05-24(일)": [
-        {
-            "type": "중식",
-            "kor": "김치제육두루치기 쌀밥/유채된장국 미나리콩나물무침 깍두기 요구르트",
-            "eng": "Spicy Pork & Kimchi Stir-fry, Rice/rapeseed miso soup water parsley bean sprout seasoned radish radish yogurt yogurt"
-        },
-        {
-            "type": "석식",
-            "kor": "소고기육개장 쌀밥 후랑크그린빈스볶음 배추김치",
-            "eng": "Korean Spicy Shredded Beef Soup, Stir-fried Rice Frank Green Beans Cabbage Kimchi"
+            "kor": "돼지고기고추장찌개 쌀밥 콩불고기파프리카조림 깍두기",
+            "eng": "Spicy Pork Gochujang Stew, Rice, beans, bulgogi, braised paprika, radish radish"
         }
     ]
 }
