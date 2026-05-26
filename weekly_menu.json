@@ -19,7 +19,7 @@
         {
             "type": "석식",
             "kor": "매운돼지갈비찜 쌀밥/호박감자국 실곤약야채무침 깍두기",
-            "eng": "Spicy Braised Pork Ribs, Rice/pumpkin potato soup, konjac vegetable stew, radish radish radish"
+            "eng": "Spicy Braised Pork Ribs, Rice/pumpkin potato soup, konjac vegetable salad, radish radish radish"
         }
     ],
     "2026-05-27(수)": [
@@ -53,12 +53,12 @@
         {
             "type": "중식",
             "kor": "서울식파채불고기 쌀밥/유부다시마국 마늘쫑감차채볶음 배추김치 요구르트",
-            "eng": "Seoul-style Bulgogi with Green Onion Salad, Rice/Fried Seaweed Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
+            "eng": "Seoul-style Bulgogi with Green Onion Salad, Rice/Tofu and Kelp Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
         },
         {
             "type": "중식",
             "kor": "삼색야끼도리덮밥 쌀밥/유부다시마국 마늘쫑감차채볶음 배추김치 요구르트",
-            "eng": "Three-Color Yakitori Rice Bowl, Rice/Fried Seaweed Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
+            "eng": "Three-Color Yakitori Rice Bowl, Rice/Tofu and Kelp Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
         },
         {
             "type": "석식",
@@ -92,7 +92,7 @@
         {
             "type": "석식",
             "kor": "소고기무국 쌀밥 후랑크브로콜리볶음 배추김치",
-            "eng": "Beef Radish Soup, Rice, stir-fried frank broccoli, cabbage kimchi"
+            "eng": "Beef Radish Soup, Stir-fried rice, frankincense broccoli, cabbage kimchi"
         }
     ],
     "2026-05-31(일)": [
