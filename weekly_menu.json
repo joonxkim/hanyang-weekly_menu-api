@@ -19,7 +19,7 @@
         {
             "type": "석식",
             "kor": "매운돼지갈비찜 쌀밥/호박감자국 실곤약야채무침 깍두기",
-            "eng": "Spicy Braised Pork Ribs, Rice/pumpkin potato soup, konjac vegetable salad, radish radish radish"
+            "eng": "Spicy Braised Pork Ribs, Rice/pumpkin potato soup, konjac vegetable stew, radish radish radish"
         }
     ],
     "2026-05-27(수)": [
@@ -53,12 +53,12 @@
         {
             "type": "중식",
             "kor": "서울식파채불고기 쌀밥/유부다시마국 마늘쫑감차채볶음 배추김치 요구르트",
-            "eng": "Seoul-style Bulgogi with Green Onion Salad, Rice/Tofu and Kelp Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
+            "eng": "Seoul-style Bulgogi with Green Onion Salad, Rice/Fried Seaweed Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
         },
         {
             "type": "중식",
             "kor": "삼색야끼도리덮밥 쌀밥/유부다시마국 마늘쫑감차채볶음 배추김치 요구르트",
-            "eng": "Three-Color Yakitori Rice Bowl, Rice/Tofu and Kelp Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
+            "eng": "Three-Color Yakitori Rice Bowl, Rice/Fried Seaweed Soup Stir-fried Garlic Persimmon and Chachae Cabbage Kimchi Yogurt"
         },
         {
             "type": "석식",
@@ -75,19 +75,19 @@
         {
             "type": "중식",
             "kor": "해물짜계치 (짜장면+계란+치즈) 추가밥/우동장국 맛살겨자냉채 배추김치/반달단무지 요구르트",
-            "eng": "Seafood Jjajang Noodles with Egg & Cheese, Additional rice/udong soup, spicy mustard cold vegetable, cabbage kimchi/half moon pickled radish yogurt"
+            "eng": "Seafood Jjajang Noodles with Egg & Cheese, Additional rice/Udon soup, spicy mustard cold vegetable, cabbage kimchi/half moon pickled radish yogurt"
         },
         {
             "type": "석식",
             "kor": "알감자닭볶음탕 쌀밥/청양초콩나물국 브로콜리연근참깨무침 깍두기 요구르트",
-            "eng": "Braised Spicy Chicken with Baby Potatoes, Rice/Cheongyang vinegar bean sprout soup, broccoli lotus root, sesame seasoned radish radish yogurt,"
+            "eng": "Braised Spicy Chicken with Baby Potatoes, Rice/Cheongyang vinegared bean sprout soup, broccoli lotus root, sesame seasoned radish radish, yogurt"
         }
     ],
     "2026-05-30(토)": [
         {
             "type": "중식",
             "kor": "숯불제육볶음&모듬쌈채소 쌀밥/미역국 메추리알고추조림 이색묵김가루무침 배추김치 만다린샐러드*드레싱 방울토마토/요구르트",
-            "eng": "Charbroiled Spicy Pork Stir-fry & Assorted Wrap Vegetables, Rice/seaweed soup, stewed quail roe, chili peppers, mixed jelly seaweed seasoning, cabbage kimchi, mandarin salad*dressing, cherry tomatoes/yogurt"
+            "eng": "Charbroiled Spicy Pork Stir-fry & Assorted Wrap Vegetables, Rice/seaweed soup, quail roe, stewed red pepper, unique jelly seaweed seasoning, cabbage kimchi, mandarin salad*dressing, cherry tomatoes/yogurt"
         },
         {
             "type": "석식",
@@ -99,7 +99,7 @@
         {
             "type": "중식",
             "kor": "서울식팽이우불고기 쌀밥/사골팟국 유부숙주겨자냉채 깍두기 요구르트",
-            "eng": "Seoul-style Beef Bulgogi with Enoki Mushrooms, Rice/beef bone soup, fermented bean sprouts, mustard, cold vegetable, radish radish yogurt, yogurt"
+            "eng": "Seoul-style Beef Bulgogi with Enoki Mushrooms, Rice/beef bone soup, boiled bean sprouts, mustard, cold vegetable, radish radish yogurt, yogurt"
         },
         {
             "type": "석식",
