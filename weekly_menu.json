@@ -4,7 +4,7 @@
         {
             "type": "조식",
             "kor": "[천원의아침밥] 치즈부대찌개&라면사리 쌀밥 느타리그린빈볶음 깍두기 시리얼*우유 방울토마토",
-            "eng": "Cheese Budae Jjigae & Ramen Noodles, Rice, Stir-fried Oyster Green Beans, Kakdugi Cereal*Milk Cherry Tomatoes"
+            "eng": "Cheese Budae Jjigae & Ramen Noodles, Rice, stir-fried oyster green beans, radish radish cereal*milk cherry tomatoes"
         },
         {
             "type": "중식",
@@ -19,7 +19,7 @@
         {
             "type": "석식",
             "kor": "매운돼지갈비찜 쌀밥/호박감자국 실곤약야채무침 깍두기",
-            "eng": "Spicy Braised Pork Ribs, Rice/pumpkin potato soup, konjac vegetable stew, radish radish radish"
+            "eng": "Spicy Braised Pork Ribs, Rice/pumpkin potato soup, konjac vegetable salad, radish radish radish"
         }
     ],
     "2026-05-27(수)": [
@@ -75,7 +75,7 @@
         {
             "type": "중식",
             "kor": "해물짜계치 (짜장면+계란+치즈) 추가밥/우동장국 맛살겨자냉채 배추김치/반달단무지 요구르트",
-            "eng": "Seafood Jjajang Noodles with Egg & Cheese, Additional rice/Udon soup, spicy mustard cold vegetable, cabbage kimchi/half moon pickled radish yogurt"
+            "eng": "Seafood Jjajang Noodles with Egg & Cheese, Additional rice/udong soup, spicy mustard cold vegetable, cabbage kimchi/half moon pickled radish yogurt"
         },
         {
             "type": "석식",
@@ -87,7 +87,7 @@
         {
             "type": "중식",
             "kor": "숯불제육볶음&모듬쌈채소 쌀밥/미역국 메추리알고추조림 이색묵김가루무침 배추김치 만다린샐러드*드레싱 방울토마토/요구르트",
-            "eng": "Charbroiled Spicy Pork Stir-fry & Assorted Wrap Vegetables, Rice/seaweed soup, quail roe, stewed red pepper, unique jelly seaweed seasoning, cabbage kimchi, mandarin salad*dressing, cherry tomatoes/yogurt"
+            "eng": "Charbroiled Spicy Pork Stir-fry & Assorted Wrap Vegetables, Rice/seaweed soup, stewed quail roe, red pepper, mixed jelly seaweed seasoning, cabbage kimchi, mandarin salad*dressing, cherry tomatoes/yogurt"
         },
         {
             "type": "석식",
@@ -99,7 +99,7 @@
         {
             "type": "중식",
             "kor": "서울식팽이우불고기 쌀밥/사골팟국 유부숙주겨자냉채 깍두기 요구르트",
-            "eng": "Seoul-style Beef Bulgogi with Enoki Mushrooms, Rice/beef bone soup, boiled bean sprouts, mustard, cold vegetable, radish radish yogurt, yogurt"
+            "eng": "Seoul-style Beef Bulgogi with Enoki Mushrooms, Rice/beef bone soup, fermented bean sprouts, mustard, cold vegetable, radish radish yogurt, yogurt"
         },
         {
             "type": "석식",
