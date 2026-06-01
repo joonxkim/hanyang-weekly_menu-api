@@ -18,7 +18,7 @@
         {
             "type": "석식",
             "kor": "뚝]분모자안동찜닭 쌀밥/김치콩나물국 푸주오이무침 깍두기",
-            "eng": "Andong Braised Chicken with Glass Noodles in Hot Pot, Rice/Kimchi Bean Sprout Soup Puju Cucumber Seasoned Radish Kkakdugi"
+            "eng": "Andong Braised Chicken with Glass Noodles in Hot Pot, Rice/Kimchi Bean Sprout Soup Puju Cucumber Seasoned Radish Kakdugi"
         }
     ],
     "2026-06-02(화)": [
@@ -48,7 +48,7 @@
         {
             "type": "조식",
             "kor": "[천원의아침밥] 강릉순두부짬뽕 쌀밥 감자채그린빈볶음 치킨너겟*머스타드 배추김치 시리얼*우유",
-            "eng": "Gangneung Soft Tofu Jjamppong, Rice, Stir-fried Potatoes, Green Beans, Chicken Nuggets*Mustard, Cabbage Kimchi, Cereal*Milk"
+            "eng": "Gangneung Soft Tofu Jjamppong, Rice, stir-fried potato, green bean, chicken nugget*mustard, cabbage kimchi, cereal*milk"
         },
         {
             "type": "중식",
@@ -83,18 +83,7 @@
             "eng": "Rosé Braised Chicken, Rice/bean curd soup Smoked ham Stir-fried green pepper Kkakdugi Yogurt"
         }
     ],
-    "2026-06-06(토)": [
-        {
-            "type": "중식",
-            "kor": "마늘간장돈육찜 쌀밥/청양초콩나물국 마늘쫑어묵볶음 깍두기 요구르트",
-            "eng": "Garlic Soy Braised Pork, Rice/Cheongyang Cho bean sprout soup Stir-fried garlic fish cake Kkakdugi yogurt"
-        },
-        {
-            "type": "석식",
-            "kor": "사골떡만둣국 쌀밥 미역줄기햄볶음 배추김치",
-            "eng": "Ox Bone Rice Cake & Dumpling Soup, Rice, seaweed, stir-fried ham, cabbage kimchi"
-        }
-    ],
+    "2026-06-06(토)": [],
     "2026-06-07(일)": [
         {
             "type": "중식",
